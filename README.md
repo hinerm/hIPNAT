@@ -1,6 +1,6 @@
 # hIPNAT
 
-[![Build Status](https://travis-ci.org/tferr/hIPNAT.svg?branch=master)](https://travis-ci.org/tferr/hIPNAT)
+[![Build Status](https://github.com/tferr/hIPNAT/actions/workflows/build-main.yml/badge.svg)](https://github.com/tferr/hIPNAT/actions/workflows/build-main.yml)
 [![DOI](https://zenodo.org/badge/4622/tferr/hIPNAT.svg)](https://zenodo.org/badge/latestdoi/4622/tferr/hIPNAT)
 [![Latest Release](https://img.shields.io/github/release/tferr/hIPNAT.svg?style=flat-square)](https://github.com/tferr/hIPNAT/releases)
 [![Issues](https://img.shields.io/github/issues/tferr/hIPNAT.svg?style=flat-square)](https://github.com/tferr/hIPNAT/issues)
