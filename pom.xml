@@ -68,8 +68,8 @@
 		<url>https://github.com/tferr/hIPNAT/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Travis CI</system>
-		<url>https://travis-ci.org/tferr/hIPNAT</url>
+		<system>GitHub Actions</system>
+		<url>https://github.com/tferr/hIPNAT/actions</url>
 	</ciManagement>
 
 	<properties>
